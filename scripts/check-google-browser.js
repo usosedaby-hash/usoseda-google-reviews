@@ -54,11 +54,28 @@ function isIconLine(line) {
 }
 
 function isReviewMeta(line) {
-  return /^\d+\s+отзыв/u.test(line);
+  return /^\d+\s+отзыв/u.test(line) || /^Местный эксперт/u.test(line);
 }
 
 function isReviewDate(line) {
   return /(секунд|минут|час|день|дня|дней|недел|месяц|месяца|месяцев|год|года|лет)\s+назад/i.test(line);
+}
+
+function isControlLine(line) {
+  return [
+    'Нравится',
+    'Поделиться',
+    'Отзывы',
+    'Информация',
+    'Обзор',
+    'Самые релевантные',
+    'Поиск отзывов',
+    'Оставить отзыв'
+  ].includes(line);
+}
+
+function looksLikeAuthor(line) {
+  return Boolean(line) && !isIconLine(line) && !isControlLine(line) && !isReviewMeta(line) && !isReviewDate(line) && !line.startsWith('Ответ владельца');
 }
 
 function getRatingFromLines(lines, fromIndex, toIndex) {
@@ -92,14 +109,17 @@ function parseReviewsFromText(bodyText, location) {
 
   for (let index = scanStart; index < lines.length - 4; index += 1) {
     const author = lines[index];
-    const meta = lines[index + 1];
+    const next = lines[index + 1] || '';
+    const hasMeta = isReviewMeta(next);
+    const meta = hasMeta ? next : '';
+    const detailsStart = hasMeta ? index + 2 : index + 1;
 
-    if (!author || !isReviewMeta(meta) || isIconLine(author)) {
+    if (!looksLikeAuthor(author)) {
       continue;
     }
 
     let dateIndex = -1;
-    for (let cursor = index + 2; cursor < Math.min(index + 14, lines.length); cursor += 1) {
+    for (let cursor = detailsStart; cursor < Math.min(index + 14, lines.length); cursor += 1) {
       if (isReviewDate(lines[cursor])) {
         dateIndex = cursor;
         break;
@@ -115,11 +135,11 @@ function parseReviewsFromText(bodyText, location) {
       const line = lines[cursor];
       const nextLine = lines[cursor + 1] || '';
 
-      if (line === 'Нравится' || line === 'Поделиться') {
+      if (line === 'Нравится' || line === 'Поделиться' || line.startsWith('Ответ владельца')) {
         break;
       }
 
-      if (isReviewMeta(nextLine) && !isIconLine(line)) {
+      if ((isReviewMeta(nextLine) || nextLine === '') && looksLikeAuthor(line)) {
         break;
       }
 
@@ -153,7 +173,7 @@ function parseReviewsFromText(bodyText, location) {
       hash,
       author,
       authorMeta: meta,
-      rating: getRatingFromLines(lines, index + 2, dateIndex),
+      rating: getRatingFromLines(lines, detailsStart, dateIndex),
       relativeDate: lines[dateIndex],
       text,
       source: 'google',
