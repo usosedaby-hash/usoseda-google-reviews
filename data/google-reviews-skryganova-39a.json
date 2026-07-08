@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-07-08T11:49:16.191Z",
+  "generatedAt": "2026-07-08T12:00:23.483Z",
   "source": "google",
   "location": {
     "id": "skryganova-39a",
     "name": "Минск, ул. Скрыганова 39А",
     "businessName": "Usoseda.by",
     "sourceUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    "usedUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
     "sourceFileUrl": "https://raw.githubusercontent.com/usosedaby-hash/usoseda-google-reviews/main/data/google-reviews-skryganova-39a.json"
   },
   "status": {
     "ok": true,
     "error": null,
+    "attemptIndex": 0,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
     "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDcwNS4wIKXMDSoASAFQAw%3D%3D",
@@ -18,14 +20,29 @@
     "consentButton": null,
     "declaredReviewCount": 6,
     "collectedReviewCount": 6,
-    "htmlBytes": 451771,
+    "htmlBytes": 453693,
     "textBytes": 3554,
     "textHash": "fa38affed82d2be7ff514209d912dcbedeb8174f174e34274fa1ce705723b0d0",
     "debugFiles": {
       "html": "debug/skryganova-39a.html",
       "text": "debug/skryganova-39a.txt",
       "screenshot": "debug/skryganova-39a.png"
-    }
+    },
+    "attempts": [
+      {
+        "url": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+        "ok": true,
+        "title": "Usoseda.by – Google Карты",
+        "declaredReviewCount": 6,
+        "collectedReviewCount": 6,
+        "textBytes": 3554,
+        "debugFiles": {
+          "html": "debug/skryganova-39a.html",
+          "text": "debug/skryganova-39a.txt",
+          "screenshot": "debug/skryganova-39a.png"
+        }
+      }
+    ]
   },
   "reviews": [
     {

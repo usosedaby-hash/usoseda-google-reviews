@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:49:16.330Z",
+  "generatedAt": "2026-07-08T12:00:23.594Z",
   "ok": true,
   "launchError": null,
   "runner": {
@@ -27,8 +27,8 @@
       "name": "Минск, ул. Асаналиева 25",
       "ok": true,
       "error": null,
-      "declaredReviewCount": null,
-      "collectedReviewCount": 0,
+      "declaredReviewCount": 37,
+      "collectedReviewCount": 33,
       "sourceUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
       "sourceFileUrl": "https://raw.githubusercontent.com/usosedaby-hash/usoseda-google-reviews/main/data/google-reviews-asanaliyeva-25.json",
       "title": "\"У соседа\" - прокат инструмента – Google Карты"
