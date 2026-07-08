@@ -2,10 +2,10 @@
   "name": "usoseda-google-reviews",
   "version": "0.1.0",
   "private": true,
-  "description": "Weekly Google reviews export diagnostics for usoseda.by",
+  "description": "Weekly Google reviews export for usoseda.by",
   "type": "module",
   "scripts": {
-    "test:browser": "node scripts/check-google-browser.js"
+    "collect": "node scripts/check-google-browser.js"
   },
   "dependencies": {
     "puppeteer": "^24.12.1"

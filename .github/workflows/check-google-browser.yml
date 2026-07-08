@@ -1,4 +1,4 @@
-name: Check Google browser access
+name: Collect Google reviews
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  check-google-browser:
+  collect-google-reviews:
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
@@ -28,8 +28,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run browser diagnostic
-        run: npm run test:browser
+      - name: Collect Google reviews
+        run: npm run collect
 
       - name: Upload debug artifacts
         uses: actions/upload-artifact@v4
@@ -38,16 +38,17 @@ jobs:
           name: google-browser-debug
           path: |
             data/status.json
-            data/google-reviews.json
+            data/google-reviews-asanaliyeva-25.json
+            data/google-reviews-skryganova-39a.json
             debug/*.html
             debug/*.txt
             debug/*.png
           if-no-files-found: warn
           retention-days: 14
 
-      - name: Commit diagnostic data
+      - name: Commit review data
         if: always()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update Google browser diagnostic data
-          file_pattern: data/status.json data/google-reviews.json
+          commit_message: Update Google reviews data
+          file_pattern: data/status.json data/google-reviews-asanaliyeva-25.json data/google-reviews-skryganova-39a.json
