@@ -14,14 +14,23 @@ const LOCATIONS = [
     name: 'Минск, ул. Асаналиева 25',
     businessName: '"У соседа" - прокат инструмента',
     outputFile: 'google-reviews-asanaliyeva-25.json',
-    url: 'https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D'
+    url: 'https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D',
+    alternateUrls: [
+      'https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by',
+      'https://www.google.com/maps?cid=4406573207230002729&hl=ru&gl=by',
+      'https://www.google.com/maps/search/?api=1&query=%22%D0%A3%20%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22%20%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%90%D1%81%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%2025%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&hl=ru&gl=by'
+    ]
   },
   {
     id: 'skryganova-39a',
     name: 'Минск, ул. Скрыганова 39А',
     businessName: 'Usoseda.by',
     outputFile: 'google-reviews-skryganova-39a.json',
-    url: 'https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D'
+    url: 'https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D',
+    alternateUrls: [
+      'https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&hl=ru&gl=by',
+      'https://www.google.com/maps?cid=4904916250678259092&hl=ru&gl=by'
+    ]
   }
 ];
 
@@ -212,7 +221,10 @@ async function expandReviewText(page) {
 }
 
 async function scrollReviewPanel(page) {
-  for (let attempt = 0; attempt < 8; attempt += 1) {
+  let previousTextLength = 0;
+  let stableAttempts = 0;
+
+  for (let attempt = 0; attempt < 35; attempt += 1) {
     await page.evaluate(() => {
       const elements = Array.from(document.querySelectorAll('div'));
       const scrollable = elements
@@ -225,11 +237,23 @@ async function scrollReviewPanel(page) {
         window.scrollTo(0, document.body.scrollHeight);
       }
     }).catch(() => null);
-    await sleep(1200);
+    await sleep(1000);
+
+    const textLength = await page.evaluate(() => document.body.innerText.length).catch(() => 0);
+    if (textLength === previousTextLength) {
+      stableAttempts += 1;
+    } else {
+      stableAttempts = 0;
+      previousTextLength = textLength;
+    }
+
+    if (stableAttempts >= 5) {
+      break;
+    }
   }
 }
 
-async function collectLocation(browser, location) {
+async function collectLocationAttempt(browser, location, attemptUrl, attemptIndex) {
   const page = await browser.newPage();
   await page.setViewport({ width: 1440, height: 1100, deviceScaleFactor: 1 });
   await page.setExtraHTTPHeaders({
@@ -246,7 +270,7 @@ async function collectLocation(browser, location) {
   let consentButton = null;
 
   try {
-    const response = await page.goto(location.url, {
+    const response = await page.goto(attemptUrl, {
       waitUntil: 'domcontentloaded',
       timeout: 90000
     });
@@ -276,9 +300,10 @@ async function collectLocation(browser, location) {
   const bodyText = await page.evaluate(() => document.body.innerText || '').catch(() => '');
   const parsed = parseReviewsFromText(bodyText, location);
 
-  const htmlFile = path.join(DEBUG_DIR, `${location.id}.html`);
-  const textFile = path.join(DEBUG_DIR, `${location.id}.txt`);
-  const screenshotFile = path.join(DEBUG_DIR, `${location.id}.png`);
+  const debugName = attemptIndex === 0 ? location.id : `${location.id}-attempt-${attemptIndex + 1}`;
+  const htmlFile = path.join(DEBUG_DIR, `${debugName}.html`);
+  const textFile = path.join(DEBUG_DIR, `${debugName}.txt`);
+  const screenshotFile = path.join(DEBUG_DIR, `${debugName}.png`);
 
   await fs.writeFile(htmlFile, html);
   await fs.writeFile(textFile, bodyText);
@@ -293,11 +318,13 @@ async function collectLocation(browser, location) {
       name: location.name,
       businessName: location.businessName,
       sourceUrl: location.url,
+      usedUrl: attemptUrl,
       sourceFileUrl: `${REPOSITORY_RAW_BASE}/${location.outputFile}`
     },
     status: {
       ok: !error,
       error,
+      attemptIndex,
       responseStatus,
       responseUrl,
       finalUrl,
@@ -323,6 +350,41 @@ async function collectLocation(browser, location) {
   );
 
   return output;
+}
+
+async function collectLocation(browser, location) {
+  const urls = [location.url, ...(location.alternateUrls || [])];
+  const attempts = [];
+  let bestOutput = null;
+
+  for (let index = 0; index < urls.length; index += 1) {
+    const output = await collectLocationAttempt(browser, location, urls[index], index);
+    attempts.push({
+      url: urls[index],
+      ok: output.status.ok,
+      title: output.status.title,
+      declaredReviewCount: output.status.declaredReviewCount,
+      collectedReviewCount: output.status.collectedReviewCount,
+      textBytes: output.status.textBytes,
+      debugFiles: output.status.debugFiles
+    });
+
+    if (!bestOutput || output.reviews.length > bestOutput.reviews.length) {
+      bestOutput = output;
+    }
+
+    if (output.reviews.length > 0 && (!output.status.declaredReviewCount || output.reviews.length >= output.status.declaredReviewCount)) {
+      break;
+    }
+  }
+
+  bestOutput.status.attempts = attempts;
+  await fs.writeFile(
+    path.join(DATA_DIR, location.outputFile),
+    JSON.stringify(bestOutput, null, 2) + '\n'
+  );
+
+  return bestOutput;
 }
 
 await ensureDirs();
