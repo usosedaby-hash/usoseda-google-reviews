@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-07-08T11:34:01.393Z",
+  "ok": false,
+  "launchError": null,
+  "runner": {
+    "node": "v20.20.2",
+    "platform": "linux",
+    "arch": "x64"
+  },
+  "locations": [
+    {
+      "id": "skryganova",
+      "name": "\"У соседа\" - прокат инструмента",
+      "sourceUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu",
+      "startedAt": "2026-07-08T11:33:59.324Z",
+      "finishedAt": "2026-07-08T11:34:00.198Z",
+      "ok": false,
+      "error": "page.waitForTimeout is not a function",
+      "responseStatus": 200,
+      "responseUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu",
+      "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu",
+      "title": "Google Карты",
+      "consentButton": null,
+      "htmlBytes": 191527,
+      "textBytes": 5,
+      "textHash": "04eb626f4014dbeede6ac3b1e4df0796197bd6a372490037bd628cecf234fa60",
+      "reviewHintCount": 0,
+      "reviewHints": [],
+      "debugFiles": {
+        "html": "debug/skryganova.html",
+        "text": "debug/skryganova.txt",
+        "screenshot": "debug/skryganova.png"
+      }
+    },
+    {
+      "id": "asanaliyeva",
+      "name": "Usoseda.by",
+      "sourceUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu",
+      "startedAt": "2026-07-08T11:34:00.251Z",
+      "finishedAt": "2026-07-08T11:34:01.272Z",
+      "ok": false,
+      "error": "page.waitForTimeout is not a function",
+      "responseStatus": 200,
+      "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu",
+      "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu",
+      "title": "Google Карты",
+      "consentButton": null,
+      "htmlBytes": 217899,
+      "textBytes": 901,
+      "textHash": "4917d9c1f3d6cde6023ba386033ba9064ba8b32fcdcaa25a74fc99056faf1bb3",
+      "reviewHintCount": 1,
+      "reviewHints": [
+        "Оставить отзыв"
+      ],
+      "debugFiles": {
+        "html": "debug/asanaliyeva.html",
+        "text": "debug/asanaliyeva.txt",
+        "screenshot": "debug/asanaliyeva.png"
+      }
+    }
+  ]
+}
