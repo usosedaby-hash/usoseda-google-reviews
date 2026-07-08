@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-07-08T11:49:16.191Z",
+  "source": "google",
+  "location": {
+    "id": "skryganova-39a",
+    "name": "Минск, ул. Скрыганова 39А",
+    "businessName": "Usoseda.by",
+    "sourceUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    "sourceFileUrl": "https://raw.githubusercontent.com/usosedaby-hash/usoseda-google-reviews/main/data/google-reviews-skryganova-39a.json"
+  },
+  "status": {
+    "ok": true,
+    "error": null,
+    "responseStatus": 200,
+    "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDcwNS4wIKXMDSoASAFQAw%3D%3D",
+    "title": "Usoseda.by – Google Карты",
+    "consentButton": null,
+    "declaredReviewCount": 6,
+    "collectedReviewCount": 6,
+    "htmlBytes": 451771,
+    "textBytes": 3554,
+    "textHash": "fa38affed82d2be7ff514209d912dcbedeb8174f174e34274fa1ce705723b0d0",
+    "debugFiles": {
+      "html": "debug/skryganova-39a.html",
+      "text": "debug/skryganova-39a.txt",
+      "screenshot": "debug/skryganova-39a.png"
+    }
+  },
+  "reviews": [
+    {
+      "id": "131a043992c53321",
+      "hash": "131a043992c53321172fbe5e4a0ec3b7209fda5813237c33a1d7d582b0f71fc9",
+      "author": "Алеся Капура",
+      "authorMeta": "4 отзыва",
+      "rating": 5,
+      "relativeDate": "месяц назад",
+      "text": "Отличный сервис, огромный выбор инструментов. по выбору подскажут лучше, чем при покупке в любом магазине. Приветливые ребята и в целом-профессионалы своего дела. Спасибо! Процветания Вам!",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
+    {
+      "id": "fd158a328f9e7077",
+      "hash": "fd158a328f9e7077944f0033cb799ad556a70a61413f54a577b650093fbe6d26",
+      "author": "Евгений Юдчиц",
+      "authorMeta": "4 отзыва · 1 фото",
+      "rating": 5,
+      "relativeDate": "2 месяца назад",
+      "text": "Инструмент весь новый. Брал мойку высокого давление.",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
+    {
+      "id": "787e433bd8942820",
+      "hash": "787e433bd8942820a3dcf9f14b74bf75d9a28011ceca44e6e3e75f595abdfa05",
+      "author": "Артём П",
+      "authorMeta": "2 отзыва · 2 фото",
+      "rating": 5,
+      "relativeDate": "месяц назад",
+      "text": "Очень классный прокат. Удобное расположение, спокойно можно припарковаться. Вежливый персонал. Брал в аренду культиватор Asilok, сотрудник проката всё рассказал, объяснил и помог загрузить. Брал в пятницу, вернул в понедельник с утра, а заплатил за двое суток. В общем отличное место, буду постоянным клиентом.",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
+    {
+      "id": "4f6187ed6c604f36",
+      "hash": "4f6187ed6c604f363e859a0fdd79bb045b1ec7c9011ec70b6a7a8245375c51fd",
+      "author": "Алексей Сорока",
+      "authorMeta": "2 отзыва",
+      "rating": 5,
+      "relativeDate": "2 месяца назад",
+      "text": "Ребята супер. Помогли организовать праздник, на все выходные. Сами привезли, сами поставили ( шатер и палаточный городок) по-любому вернемся к ним!!! P.s.- удобное место, центр города, а с парковкой проблем никаких!!!",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
+    {
+      "id": "27f29aeb08758785",
+      "hash": "27f29aeb08758785133bbc0ece9eda7adac59ce84a288af8a546fdcf335e2093",
+      "author": "Anton Miklushov",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "2 месяца назад",
+      "text": "Отличный прокат, инструмент в отличном состоянии, хорошее и быстрое обслуживание!!!!",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
+    {
+      "id": "906d77097939f4a9",
+      "hash": "906d77097939f4a9990d60a00015530513d7d58e9fd6fdc43646d18b3469ffd9",
+      "author": "Богдан Чижонок",
+      "authorMeta": "9 отзывов · 5 фото",
+      "rating": 5,
+      "relativeDate": "2 месяца назад",
+      "text": "Отличный прокат инструмента в Минске! Всё быстро, удобно и по разумной цене. Инструмент выдали в хорошем состоянии, сотрудники вежливые и помогли с выбором. Остался очень доволен, при необходимости обращусь снова.",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    }
+  ]
+}
