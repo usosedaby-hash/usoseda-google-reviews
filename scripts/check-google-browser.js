@@ -24,6 +24,10 @@ function sha256(value) {
   return crypto.createHash('sha256').update(value).digest('hex');
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function ensureDirs() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(DEBUG_DIR, { recursive: true });
@@ -57,7 +61,7 @@ async function clickConsentIfShown(page) {
     }, label).catch(() => false);
 
     if (clicked) {
-      await page.waitForTimeout(2500);
+      await sleep(2500);
       return label;
     }
   }
@@ -88,9 +92,9 @@ async function inspectLocation(browser, location) {
     });
     responseStatus = response ? response.status() : null;
     responseUrl = response ? response.url() : null;
-    await page.waitForTimeout(7000);
+    await sleep(7000);
     consentButton = await clickConsentIfShown(page);
-    await page.waitForTimeout(8000);
+    await sleep(8000);
   } catch (caughtError) {
     error = caughtError instanceof Error ? caughtError.message : String(caughtError);
   }
@@ -99,6 +103,13 @@ async function inspectLocation(browser, location) {
   const finalUrl = page.url();
   const html = await page.content().catch(() => '');
   const bodyText = await page.evaluate(() => document.body.innerText || '').catch(() => '');
+  const clickableTexts = await page.evaluate(() => {
+    const elements = Array.from(document.querySelectorAll('a, button, [role="button"]'));
+    return elements
+      .map((element) => (element.innerText || element.textContent || element.getAttribute('aria-label') || '').trim())
+      .filter(Boolean)
+      .slice(0, 120);
+  }).catch(() => []);
   const reviewHints = bodyText
     .split('\n')
     .map((line) => line.trim())
@@ -130,6 +141,7 @@ async function inspectLocation(browser, location) {
     htmlBytes: Buffer.byteLength(html),
     textBytes: Buffer.byteLength(bodyText),
     textHash: sha256(bodyText),
+    clickableTexts,
     reviewHintCount: reviewHints.length,
     reviewHints,
     debugFiles: {
