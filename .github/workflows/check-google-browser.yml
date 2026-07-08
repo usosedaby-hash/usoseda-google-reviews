@@ -1,0 +1,53 @@
+name: Check Google browser access
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  check-google-browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run browser diagnostic
+        run: npm run test:browser
+
+      - name: Upload debug artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: google-browser-debug
+          path: |
+            data/status.json
+            data/google-reviews.json
+            debug/*.html
+            debug/*.txt
+            debug/*.png
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Commit diagnostic data
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Google browser diagnostic data
+          file_pattern: data/status.json data/google-reviews.json
