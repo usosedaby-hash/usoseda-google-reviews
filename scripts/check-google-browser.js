@@ -118,6 +118,10 @@ function parseReviewsFromText(bodyText, location) {
       continue;
     }
 
+    if (lines[detailsStart] !== '') {
+      continue;
+    }
+
     let dateIndex = -1;
     for (let cursor = detailsStart; cursor < Math.min(index + 14, lines.length); cursor += 1) {
       if (isReviewDate(lines[cursor])) {
