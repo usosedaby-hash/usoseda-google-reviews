@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T12:12:32.601Z",
+  "generatedAt": "2026-07-13T11:46:02.319Z",
   "source": "google",
   "location": {
     "id": "skryganova-39a",
@@ -15,14 +15,14 @@
     "attemptIndex": 0,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDcwNS4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D",
     "title": "Usoseda.by – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 6,
     "collectedReviewCount": 6,
-    "htmlBytes": 451593,
-    "textBytes": 3554,
-    "textHash": "fa38affed82d2be7ff514209d912dcbedeb8174f174e34274fa1ce705723b0d0",
+    "htmlBytes": 451833,
+    "textBytes": 3558,
+    "textHash": "2c2dc54f8a0408068a69a518251890eeb472ea066f58aebe0b177183bc5b5e20",
     "debugFiles": {
       "html": "debug/skryganova-39a.html",
       "text": "debug/skryganova-39a.txt",
@@ -35,7 +35,7 @@
         "title": "Usoseda.by – Google Карты",
         "declaredReviewCount": 6,
         "collectedReviewCount": 6,
-        "textBytes": 3554,
+        "textBytes": 3558,
         "debugFiles": {
           "html": "debug/skryganova-39a.html",
           "text": "debug/skryganova-39a.txt",
@@ -68,12 +68,12 @@
       "locationId": "skryganova-39a"
     },
     {
-      "id": "787e433bd8942820",
-      "hash": "787e433bd8942820a3dcf9f14b74bf75d9a28011ceca44e6e3e75f595abdfa05",
+      "id": "3c210ef35f8bfce6",
+      "hash": "3c210ef35f8bfce66fbabf3944c65c7b9b00354766a5021436c145e773a00591",
       "author": "Артём П",
       "authorMeta": "2 отзыва · 2 фото",
       "rating": 5,
-      "relativeDate": "месяц назад",
+      "relativeDate": "2 месяца назад",
       "text": "Очень классный прокат. Удобное расположение, спокойно можно припарковаться. Вежливый персонал. Брал в аренду культиватор Asilok, сотрудник проката всё рассказал, объяснил и помог загрузить. Брал в пятницу, вернул в понедельник с утра, а заплатил за двое суток. В общем отличное место, буду постоянным клиентом.",
       "source": "google",
       "locationId": "skryganova-39a"
