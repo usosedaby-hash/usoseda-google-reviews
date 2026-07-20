@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T11:44:52.504Z",
+  "generatedAt": "2026-07-20T10:35:14.754Z",
   "source": "google",
   "location": {
     "id": "asanaliyeva-25",
@@ -15,14 +15,14 @@
     "attemptIndex": 1,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by",
-    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?hl=ru&entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?hl=ru&entry=ttu&g_ep=EgoyMDI2MDcxNS4wIKXMDSoASAFQAw%3D%3D",
     "title": "\"У соседа\" - прокат инструмента – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 37,
     "collectedReviewCount": 34,
-    "htmlBytes": 596479,
+    "htmlBytes": 592594,
     "textBytes": 20138,
-    "textHash": "64c496a04306048ea3dfb1c35b12383a5ec8bc9270dd724fcf4d2369b21ef577",
+    "textHash": "0040ae81759da78af2ae0e3c725855e54db8213fb847025dadcfab0ab2d43b62",
     "debugFiles": {
       "html": "debug/asanaliyeva-25-attempt-2.html",
       "text": "debug/asanaliyeva-25-attempt-2.txt",
@@ -85,17 +85,6 @@
   },
   "reviews": [
     {
-      "id": "7bc6777ec4e6b6cd",
-      "hash": "7bc6777ec4e6b6cd3557cf6be5067ca391c6b9abc073f357ba856d20e85dc430",
-      "author": "Артём П",
-      "authorMeta": "2 отзыва · 2 фото",
-      "rating": 5,
-      "relativeDate": "7 месяцев назад",
-      "text": "Отличное место для решения вопросов по ремонту в квартире) Всегда оригинальный, ухоженный и чистый инструмент, качественные расходники. Недавно брал коронку по бетону для подрозетников Hilberg 68мм в паре с перфоратором Makita - идеально! Вежливые ребята! Дают ответ на любой вопрос, а вопросов у меня всегда много))) Рекомендую!",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
       "id": "6f44fc9a4c8f1935",
       "hash": "6f44fc9a4c8f1935dccb6a9903c109e677af8d9f48a3a4ba6960e966f78df707",
       "author": "Екатерина Екатерина",
@@ -125,6 +114,17 @@
       "rating": 5,
       "relativeDate": "2 года назад",
       "text": "Арендовал бензобур. Очень редко когда можно встретить бензиновую технику штиль!!! И триммеры тоже в данном прокате штиль. В общем очень хорошее и профессиональное оборудование. Отличное и компетентное обслуживание. Всё показали и рассказали как делать. 1",
+      "source": "google",
+      "locationId": "asanaliyeva-25"
+    },
+    {
+      "id": "7bc6777ec4e6b6cd",
+      "hash": "7bc6777ec4e6b6cd3557cf6be5067ca391c6b9abc073f357ba856d20e85dc430",
+      "author": "Артём П",
+      "authorMeta": "2 отзыва · 2 фото",
+      "rating": 5,
+      "relativeDate": "7 месяцев назад",
+      "text": "Отличное место для решения вопросов по ремонту в квартире) Всегда оригинальный, ухоженный и чистый инструмент, качественные расходники. Недавно брал коронку по бетону для подрозетников Hilberg 68мм в паре с перфоратором Makita - идеально! Вежливые ребята! Дают ответ на любой вопрос, а вопросов у меня всегда много))) Рекомендую!",
       "source": "google",
       "locationId": "asanaliyeva-25"
     },
@@ -162,17 +162,6 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "2650d614a0a014c8",
-      "hash": "2650d614a0a014c8ef3524ee74e5331abce1fb0b08bd1067d9f94a0c15dafe2a",
-      "author": "Виктор Жукович",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "2 года назад",
-      "text": "Я заказал аренду мойки высокого давления karcher с доставкой и остался очень доволен сервисом. Мне привезли устройство в удобное для меня время, все было четко и без задержек. Мойка работала отлично, помогла быстро и качественно убрать грязь на моем участке. Спасибо за отличный сервис и удобство!",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
       "id": "d4226d061c7d98c5",
       "hash": "d4226d061c7d98c53f5dfdeeb67580762525c628a3927c30411e301dac9c75fc",
       "author": "Игорь Гарунович",
@@ -180,6 +169,17 @@
       "rating": 5,
       "relativeDate": "2 года назад",
       "text": "Взял в аренду перфоратор makita с доставкой. Все устроило. Заказ был оформлен быстро и просто, перфоратор привезли вовремя. Работал отлично, помогал мне быстро и качественно выполнить нужные работы. Спасибо за удобство и профессионализм!",
+      "source": "google",
+      "locationId": "asanaliyeva-25"
+    },
+    {
+      "id": "2650d614a0a014c8",
+      "hash": "2650d614a0a014c8ef3524ee74e5331abce1fb0b08bd1067d9f94a0c15dafe2a",
+      "author": "Виктор Жукович",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "2 года назад",
+      "text": "Я заказал аренду мойки высокого давления karcher с доставкой и остался очень доволен сервисом. Мне привезли устройство в удобное для меня время, все было четко и без задержек. Мойка работала отлично, помогла быстро и качественно убрать грязь на моем участке. Спасибо за отличный сервис и удобство!",
       "source": "google",
       "locationId": "asanaliyeva-25"
     },
@@ -217,12 +217,12 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "a9c32092e59c7fa8",
-      "hash": "a9c32092e59c7fa8dc3f6f27b9ef50047dc1c8453ce54b8bf645332e2acb342c",
+      "id": "7f952dabfb33d4d4",
+      "hash": "7f952dabfb33d4d462bf157034f7fabb80ab4ef25cfdb7580869211cf771a53c",
       "author": "katerina ruskevich",
       "authorMeta": "1 отзыв",
       "rating": 5,
-      "relativeDate": "8 месяцев назад",
+      "relativeDate": "9 месяцев назад",
       "text": "Брала у ребят пароочиститель, качествен инструмент, все вовремя и по высшему классу, обязательно обращусь ещё. Рекомендую всем🔥 …",
       "source": "google",
       "locationId": "asanaliyeva-25"
@@ -261,12 +261,12 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "f1ccbf4f845121cf",
-      "hash": "f1ccbf4f845121cf3915473e215b14b797972c35ef2d31cb4684b69861fd1d94",
+      "id": "370edd9ba9cbf6d8",
+      "hash": "370edd9ba9cbf6d8efa67fb96b5ee169a307e4eecd8ad890fd52326c8ebe0eab",
       "author": "Алеся Урбанович",
       "authorMeta": "1 отзыв",
       "rating": 5,
-      "relativeDate": "8 месяцев назад",
+      "relativeDate": "9 месяцев назад",
       "text": "Приятные ребята, все рассказали и показали как пользоваться моющим пылесосом karcher puzzi проконсультировали по всем вопросам, все получилось 🙌благодарю, обязательно приеду еще раз! …",
       "source": "google",
       "locationId": "asanaliyeva-25"
