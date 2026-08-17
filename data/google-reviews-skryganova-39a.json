@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T05:12:50.384Z",
+  "generatedAt": "2026-08-17T01:41:31.673Z",
   "source": "google",
   "location": {
     "id": "skryganova-39a",
@@ -15,14 +15,14 @@
     "attemptIndex": 0,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
     "title": "Usoseda.by – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 6,
-    "collectedReviewCount": 6,
-    "htmlBytes": 474741,
-    "textBytes": 3562,
-    "textHash": "92fa115c357b594eb614f3ea6f48daff04fe2af7e2271c4983aa74c5936aedf5",
+    "collectedReviewCount": 5,
+    "htmlBytes": 476050,
+    "textBytes": 4088,
+    "textHash": "6c44d34bd6b975f3aabc47acf9678a96dd903698dd8127621e2934a3cbb8774e",
     "debugFiles": {
       "html": "debug/skryganova-39a.html",
       "text": "debug/skryganova-39a.txt",
@@ -34,17 +34,54 @@
         "ok": true,
         "title": "Usoseda.by – Google Карты",
         "declaredReviewCount": 6,
-        "collectedReviewCount": 6,
-        "textBytes": 3562,
+        "collectedReviewCount": 5,
+        "textBytes": 4088,
         "debugFiles": {
           "html": "debug/skryganova-39a.html",
           "text": "debug/skryganova-39a.txt",
           "screenshot": "debug/skryganova-39a.png"
         }
+      },
+      {
+        "url": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&hl=ru&gl=by",
+        "ok": true,
+        "title": "Usoseda.by – Google Карты",
+        "declaredReviewCount": 6,
+        "collectedReviewCount": 5,
+        "textBytes": 4065,
+        "debugFiles": {
+          "html": "debug/skryganova-39a-attempt-2.html",
+          "text": "debug/skryganova-39a-attempt-2.txt",
+          "screenshot": "debug/skryganova-39a-attempt-2.png"
+        }
+      },
+      {
+        "url": "https://www.google.com/maps?cid=4904916250678259092&hl=ru&gl=by",
+        "ok": true,
+        "title": "Usoseda.by – Google Карты",
+        "declaredReviewCount": 6,
+        "collectedReviewCount": 5,
+        "textBytes": 4065,
+        "debugFiles": {
+          "html": "debug/skryganova-39a-attempt-3.html",
+          "text": "debug/skryganova-39a-attempt-3.txt",
+          "screenshot": "debug/skryganova-39a-attempt-3.png"
+        }
       }
     ]
   },
   "reviews": [
+    {
+      "id": "7665250181f1fc20",
+      "hash": "7665250181f1fc20d3431e0f0494a90b4b3821644d52ac921010db653ac6b20d",
+      "author": "Артём П",
+      "authorMeta": "2 отзыва · 2 фото",
+      "rating": 5,
+      "relativeDate": "3 месяца назад",
+      "text": "Очень классный прокат. Удобное расположение, спокойно можно припарковаться. Вежливый персонал. Брал в аренду культиватор Asilok, сотрудник проката всё рассказал, объяснил и помог загрузить. Брал в пятницу, вернул в понедельник с утра, а заплатил за двое суток. В общем отличное место, буду постоянным клиентом.",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
     {
       "id": "a8210b0c746c5996",
       "hash": "a8210b0c746c5996f21539858ef45922c3a32a2e5f36aa9a005ce6ec96103c4e",
@@ -53,6 +90,17 @@
       "rating": 5,
       "relativeDate": "2 месяца назад",
       "text": "Отличный сервис, огромный выбор инструментов. по выбору подскажут лучше, чем при покупке в любом магазине. Приветливые ребята и в целом-профессионалы своего дела. Спасибо! Процветания Вам!",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
+    {
+      "id": "ac6db26284dc301e",
+      "hash": "ac6db26284dc301e2eeac7aebfa900296708936fc277cd6eada67e72657054ef",
+      "author": "Богдан Чижонок",
+      "authorMeta": "9 отзывов · 5 фото",
+      "rating": 5,
+      "relativeDate": "3 месяца назад",
+      "text": "Отличный прокат инструмента в Минске! Всё быстро, удобно и по разумной цене. Инструмент выдали в хорошем состоянии, сотрудники вежливые и помогли с выбором. Остался очень доволен, при необходимости обращусь снова.",
       "source": "google",
       "locationId": "skryganova-39a"
     },
@@ -75,39 +123,6 @@
       "rating": 5,
       "relativeDate": "3 месяца назад",
       "text": "Инструмент весь новый. Брал мойку высокого давление.",
-      "source": "google",
-      "locationId": "skryganova-39a"
-    },
-    {
-      "id": "3c210ef35f8bfce6",
-      "hash": "3c210ef35f8bfce66fbabf3944c65c7b9b00354766a5021436c145e773a00591",
-      "author": "Артём П",
-      "authorMeta": "2 отзыва · 2 фото",
-      "rating": 5,
-      "relativeDate": "2 месяца назад",
-      "text": "Очень классный прокат. Удобное расположение, спокойно можно припарковаться. Вежливый персонал. Брал в аренду культиватор Asilok, сотрудник проката всё рассказал, объяснил и помог загрузить. Брал в пятницу, вернул в понедельник с утра, а заплатил за двое суток. В общем отличное место, буду постоянным клиентом.",
-      "source": "google",
-      "locationId": "skryganova-39a"
-    },
-    {
-      "id": "80a1504099d995b1",
-      "hash": "80a1504099d995b1bf754aa9cc9a4af8679c7cfb5a933484ec5744ef94d9cdc2",
-      "author": "Anton Miklushov",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "3 месяца назад",
-      "text": "Отличный прокат, инструмент в отличном состоянии, хорошее и быстрое обслуживание!!!!",
-      "source": "google",
-      "locationId": "skryganova-39a"
-    },
-    {
-      "id": "ac6db26284dc301e",
-      "hash": "ac6db26284dc301e2eeac7aebfa900296708936fc277cd6eada67e72657054ef",
-      "author": "Богдан Чижонок",
-      "authorMeta": "9 отзывов · 5 фото",
-      "rating": 5,
-      "relativeDate": "3 месяца назад",
-      "text": "Отличный прокат инструмента в Минске! Всё быстро, удобно и по разумной цене. Инструмент выдали в хорошем состоянии, сотрудники вежливые и помогли с выбором. Остался очень доволен, при необходимости обращусь снова.",
       "source": "google",
       "locationId": "skryganova-39a"
     }

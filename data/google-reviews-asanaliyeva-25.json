@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-10T05:11:40.312Z",
+  "generatedAt": "2026-08-17T01:39:40.116Z",
   "source": "google",
   "location": {
     "id": "asanaliyeva-25",
     "name": "Минск, ул. Асаналиева 25",
     "businessName": "\"У соседа\" - прокат инструмента",
     "sourceUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-    "usedUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by",
+    "usedUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
     "sourceFileUrl": "https://raw.githubusercontent.com/usosedaby-hash/usoseda-google-reviews/main/data/google-reviews-asanaliyeva-25.json"
   },
   "status": {
     "ok": true,
     "error": null,
-    "attemptIndex": 1,
+    "attemptIndex": 0,
     "responseStatus": 200,
-    "responseUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by",
-    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?hl=ru&entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+    "responseUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D",
     "title": "\"У соседа\" - прокат инструмента – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 35,
-    "collectedReviewCount": 32,
-    "htmlBytes": 609203,
-    "textBytes": 18796,
-    "textHash": "a211379d4ba404d2b688a43c62364c786af2aa720720e5a462fdf08dfb386a6c",
+    "collectedReviewCount": 10,
+    "htmlBytes": 497826,
+    "textBytes": 8375,
+    "textHash": "cdaa3c3c9e84f62cd44a3966d7ce522bf7402d721652e91284c5e58f25de3f8f",
     "debugFiles": {
-      "html": "debug/asanaliyeva-25-attempt-2.html",
-      "text": "debug/asanaliyeva-25-attempt-2.txt",
-      "screenshot": "debug/asanaliyeva-25-attempt-2.png"
+      "html": "debug/asanaliyeva-25.html",
+      "text": "debug/asanaliyeva-25.txt",
+      "screenshot": "debug/asanaliyeva-25.png"
     },
     "attempts": [
       {
         "url": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": null,
-        "collectedReviewCount": 0,
-        "textBytes": 1518,
+        "declaredReviewCount": 35,
+        "collectedReviewCount": 10,
+        "textBytes": 8375,
         "debugFiles": {
           "html": "debug/asanaliyeva-25.html",
           "text": "debug/asanaliyeva-25.txt",
@@ -47,8 +47,8 @@
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
         "declaredReviewCount": 35,
-        "collectedReviewCount": 32,
-        "textBytes": 18796,
+        "collectedReviewCount": 10,
+        "textBytes": 8352,
         "debugFiles": {
           "html": "debug/asanaliyeva-25-attempt-2.html",
           "text": "debug/asanaliyeva-25-attempt-2.txt",
@@ -60,8 +60,8 @@
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
         "declaredReviewCount": 35,
-        "collectedReviewCount": 32,
-        "textBytes": 18796,
+        "collectedReviewCount": 5,
+        "textBytes": 5162,
         "debugFiles": {
           "html": "debug/asanaliyeva-25-attempt-3.html",
           "text": "debug/asanaliyeva-25-attempt-3.txt",
@@ -73,8 +73,8 @@
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
         "declaredReviewCount": 35,
-        "collectedReviewCount": 32,
-        "textBytes": 18796,
+        "collectedReviewCount": 5,
+        "textBytes": 5162,
         "debugFiles": {
           "html": "debug/asanaliyeva-25-attempt-4.html",
           "text": "debug/asanaliyeva-25-attempt-4.txt",
@@ -85,17 +85,6 @@
   },
   "reviews": [
     {
-      "id": "28ef6d42782f1b15",
-      "hash": "28ef6d42782f1b15221376985f2b64f944628ae5c1bbba7eab91553f3f2c2538",
-      "author": "Екатерина Екатерина",
-      "authorMeta": "2 отзыва",
-      "rating": 5,
-      "relativeDate": "6 месяцев назад",
-      "text": "Отличный прокат, пользуемся всей семьёй, брали бензопилу и тепловую пушку, летом брали несколько раз палатку , шатер, стол и стулья, туристическую посуду для рыбалки. Остались очень довольны, отличный чел, вовремя всё обмундирование привез , очень помог, т.к. не могли найти к этому времени ни у кого из конкурентов, всё было занято. В общем рекомендую, быстро, качественно, всё новое было",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
       "id": "e023f1774ff17a6c",
       "hash": "e023f1774ff17a6c561d0f693d8af680bab513129e0e3695c94fd912fd2c0e49",
       "author": "Михаил Суховей",
@@ -103,6 +92,17 @@
       "rating": 5,
       "relativeDate": "6 месяцев назад",
       "text": "Классный прокат! Сервис на уровне! Приятно, когда сотрудники проката с пониманием относятся к загрязнениям инструмента, при возврате, и не заставляют чистить и платить за это деньги.",
+      "source": "google",
+      "locationId": "asanaliyeva-25"
+    },
+    {
+      "id": "28ef6d42782f1b15",
+      "hash": "28ef6d42782f1b15221376985f2b64f944628ae5c1bbba7eab91553f3f2c2538",
+      "author": "Екатерина Екатерина",
+      "authorMeta": "2 отзыва",
+      "rating": 5,
+      "relativeDate": "6 месяцев назад",
+      "text": "Отличный прокат, пользуемся всей семьёй, брали бензопилу и тепловую пушку, летом брали несколько раз палатку , шатер, стол и стулья, туристическую посуду для рыбалки. Остались очень довольны, отличный чел, вовремя всё обмундирование привез , очень помог, т.к. не могли найти к этому времени ни у кого из конкурентов, всё было занято. В общем рекомендую, быстро, качественно, всё новое было",
       "source": "google",
       "locationId": "asanaliyeva-25"
     },
@@ -151,39 +151,6 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "c4655936062e5af7",
-      "hash": "c4655936062e5af7a311035c4b9fa18d6fce33d9ef564963b359697ea11cce60",
-      "author": "Alex Volkov",
-      "authorMeta": "Местный эксперт · 33 отзыва · 292 фото",
-      "rating": 5,
-      "relativeDate": "4 года назад",
-      "text": "Брал напрокат пресс гидравлический ручной для обжима гильз. Забронировал заранее. На месте составили договор. Стоимость аренды невысокая. Инструмент укомплектован, чистый, в отличном состоянии. Всё понравилось. 2",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "d4226d061c7d98c5",
-      "hash": "d4226d061c7d98c53f5dfdeeb67580762525c628a3927c30411e301dac9c75fc",
-      "author": "Игорь Гарунович",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "2 года назад",
-      "text": "Взял в аренду перфоратор makita с доставкой. Все устроило. Заказ был оформлен быстро и просто, перфоратор привезли вовремя. Работал отлично, помогал мне быстро и качественно выполнить нужные работы. Спасибо за удобство и профессионализм!",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "2650d614a0a014c8",
-      "hash": "2650d614a0a014c8ef3524ee74e5331abce1fb0b08bd1067d9f94a0c15dafe2a",
-      "author": "Виктор Жукович",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "2 года назад",
-      "text": "Я заказал аренду мойки высокого давления karcher с доставкой и остался очень доволен сервисом. Мне привезли устройство в удобное для меня время, все было четко и без задержек. Мойка работала отлично, помогла быстро и качественно убрать грязь на моем участке. Спасибо за отличный сервис и удобство!",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
       "id": "78fda5662fd5f684",
       "hash": "78fda5662fd5f6841001b871092a8908a1d37bbd7801f5b821955a2b043b38dd",
       "author": "Игорь Капура",
@@ -224,215 +191,6 @@
       "rating": 5,
       "relativeDate": "5 лет назад",
       "text": "Отличный сервис! Недавно брал пробивной перфоратор в комплекте с буром. Показали/проверили инструмент на месте, отработал пробивным без нареканий. Приветливый персонал и технически грамотный. Только положительные впечатления. Буду обращаться еще.",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "ffd9e0263aadb906",
-      "hash": "ffd9e0263aadb9066a2bc045ea7d431a0894e40efc2df19c6a44c8aba556deeb",
-      "author": "V21 E Vivo",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "год назад",
-      "text": "Заказывали доставку моющего пылесоса. Привезли вовремя, все рассказали как пользоваться. Будем ещё заказывать.",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "370edd9ba9cbf6d8",
-      "hash": "370edd9ba9cbf6d8efa67fb96b5ee169a307e4eecd8ad890fd52326c8ebe0eab",
-      "author": "Алеся Урбанович",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "9 месяцев назад",
-      "text": "Приятные ребята, все рассказали и показали как пользоваться моющим пылесосом karcher puzzi проконсультировали по всем вопросам, все получилось 🙌благодарю, обязательно приеду еще раз! …",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "d6e2ac3c055bd80d",
-      "hash": "d6e2ac3c055bd80d3c0ad8feea66ef331f790f206b5980abcf083db6e889cb92",
-      "author": "Oleg Bondar",
-      "authorMeta": "3 отзыва",
-      "rating": 5,
-      "relativeDate": "4 года назад",
-      "text": "Очень большой выбор инструмента по приятным ценам. Брал сегодня сварочный аппарат и баллон, мастер показал как работает и помог донести до машины.",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "c68abb09650fa4e8",
-      "hash": "c68abb09650fa4e8fd6bd2d1b5fc762a67c63d5fbeb45509aaf713e00ed7f056",
-      "author": "Андрей Dron",
-      "authorMeta": "2 отзыва · 1 фото",
-      "rating": 5,
-      "relativeDate": "год назад",
-      "text": "Топовая контора, столы и шатры бомба. Лояльно, конкретно, и по цене не плохо. Мужики красавцы 1",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "33b19a00999f9a7a",
-      "hash": "33b19a00999f9a7a6990a75303b30396995fedaa8ada79c3635a24ca42dce196",
-      "author": "Руслан Эйсмонт",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "5 лет назад",
-      "text": "Большой ассортимент инструмента по хорошим ценам. Неделю назад брал штроборез, инструмент чистый, аккуратный- приятно работать. Рекомендую!",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "9f9f2c033b8b4396",
-      "hash": "9f9f2c033b8b439641edc028b762f140127c94dd473163411a43b904194f4ffd",
-      "author": "Алексей Сорока",
-      "authorMeta": "2 отзыва",
-      "rating": 5,
-      "relativeDate": "2 года назад",
-      "text": "Постоянно пользуюсь данным прокатом! Очень вежливый персонал и действительно большой выбор различных инструментов. Всегда помогут подскажут. 1",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "c55098210117a4c0",
-      "hash": "c55098210117a4c0aa5adfc9aa5dca9d520f6e80095ae442a3fa670a4b2b2e12",
-      "author": "Evgeni M",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "2 года назад",
-      "text": "Беру оборудование на организацию в данном прокате. Всё устраивает. Оборудование всегда исправное, иногда даже доставку осуществляют. Отличный прокат, всем советую. 1",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "9277a8279fa3aa50",
-      "hash": "9277a8279fa3aa50538de133530fe2b3ff969374f3fd9501715bb822b1b83400",
-      "author": "Оксана Анисимова",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "4 года назад",
-      "text": "Вчера брали в аренду отцу на дачу бензопилу. Приемлемые цены и условия. Отец доволен. Спасибо",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "e7fbfef3b3e89cf9",
-      "hash": "e7fbfef3b3e89cf9f9213e3a5711f204df355b3c5c11ebcf178afa1aa75dcd6b",
-      "author": "Evgen Kravtsov",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "2 года назад",
-      "text": "Прекрасный прокат. Очень удобное расположение. Всегда есть в наличие любой инструмент. Всегда очень вежливый персонал 1",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "62f6bd96df491f25",
-      "hash": "62f6bd96df491f255ddb4a98d9767ea8376c068b69b6c4e107be3027327e8987",
-      "author": "Olivia Durer",
-      "authorMeta": "2 отзыва",
-      "rating": 5,
-      "relativeDate": "5 лет назад",
-      "text": "Я женщина простая. Ничего в этом не пониманию. Брала инструменты. Ребята от души помогли, всё объяснили. Справилась на ура.",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "a957e5d714f4e041",
-      "hash": "a957e5d714f4e04176e78e7f099c78d8d16c4e6cb13e80fd24944921f7ad3c97",
-      "author": "Yaroslav K",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "2 года назад",
-      "text": "Очень много профессионального, качественного инструмента. Очень вежливое обслуживание. Помогли занести всё до машины. Загрузили и выгрузили. 1",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "07591ba4e8bc39bd",
-      "hash": "07591ba4e8bc39bdaf96333fc166c745a6ed10e1be3ad951a443a1170eda5d4f",
-      "author": "Дмитрий Бирилло",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "5 лет назад",
-      "text": "Очень большой выбор инструментов, взял сразу весе необходимое, вежливый персонал и удобный график работы. РЕКОМЕНДУЮ👍 …",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "ed7f1242fc4721cc",
-      "hash": "ed7f1242fc4721cc717076fc80583309a8f96dc150a7ccc43ef9a5387fb8c655",
-      "author": "Artur Santarovich",
-      "authorMeta": "1 отзыв · 1 фото",
-      "rating": 5,
-      "relativeDate": "Изменено год назад",
-      "text": "Ребята на пятёрочку, помогли с выбором инструмента и максимально быстро оформили заказ! Буду обращаться))) 1",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "1ca790af6de6fde2",
-      "hash": "1ca790af6de6fde262d7045f9f1830fa621700ea8e02cb61602eaa98d83026dd",
-      "author": "Евгений Юдчиц",
-      "authorMeta": "4 отзыва · 1 фото",
-      "rating": 5,
-      "relativeDate": "5 лет назад",
-      "text": "Беру постоянно здесь всё для строительство. отличное обслуживание хороший инструмент.",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "d479606ed4946b67",
-      "hash": "d479606ed4946b6740801dd892d538730b3b2bdd0b3cf6b45ef00fb9abbbb167",
-      "author": "Anya Sharlaj",
-      "authorMeta": "6 отзывов · 1 фото",
-      "rating": 5,
-      "relativeDate": "5 лет назад",
-      "text": "Брали в аренду палатку и шатер. Очень остались довольны обслуживанием. Ребята все расскажут и подскажут))",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "da687683c70ef40a",
-      "hash": "da687683c70ef40a4244347be283c64ae803bb79bbe578fe9ee889e25159b3d4",
-      "author": "Толик Конончик",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "4 года назад",
-      "text": "Вчера заказывал инструмент все понрауилось и серви и цены",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "5875157527e39374",
-      "hash": "5875157527e393748fdcadb35832a2eccd3242705aac72c904bfc6a289599840",
-      "author": "Керим Джораев",
-      "authorMeta": "2 отзыва · 1 фото",
-      "rating": 5,
-      "relativeDate": "5 лет назад",
-      "text": "Большой выбор профессионального инструмента. Вежливый персонал.",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "978b47ec2249ed17",
-      "hash": "978b47ec2249ed17f300f63418c0a33273a7c18597f234c5d56d36167b077ba7",
-      "author": "Юлия Филиппович",
-      "authorMeta": "2 отзыва",
-      "rating": 5,
-      "relativeDate": "5 лет назад",
-      "text": "Спасибо большое!!!Очень осталась довольна !!!Лучший сервис и профессионалы своего дела !!!!Всем рекомендую!!!!",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
-      "id": "3ca188fc3ec5d310",
-      "hash": "3ca188fc3ec5d3103a847fb67527e52cdeb8ca8c2b8fa6190a0bfb937d6fc686",
-      "author": "Екатерина Гузь",
-      "authorMeta": "1 отзыв",
-      "rating": 5,
-      "relativeDate": "год назад",
-      "text": "Хорошие ребята с которыми приятно иметь дело",
       "source": "google",
       "locationId": "asanaliyeva-25"
     }
