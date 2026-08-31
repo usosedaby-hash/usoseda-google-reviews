@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:41:56.031Z",
+  "generatedAt": "2026-08-31T04:52:58.950Z",
   "source": "google",
   "location": {
     "id": "asanaliyeva-25",
@@ -15,14 +15,14 @@
     "attemptIndex": 1,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by",
-    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?hl=ru&entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?hl=ru&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
     "title": "\"У соседа\" - прокат инструмента – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 35,
     "collectedReviewCount": 32,
-    "htmlBytes": 616687,
+    "htmlBytes": 615459,
     "textBytes": 18798,
-    "textHash": "ff7ce42abb042c90a028d0f67168b3843886b40401fdeedbba160000d7be6746",
+    "textHash": "694e7ff9f648504dc2ab996b7b0b1c68c783e7adf4d728af3b353a0b61016256",
     "debugFiles": {
       "html": "debug/asanaliyeva-25-attempt-2.html",
       "text": "debug/asanaliyeva-25-attempt-2.txt",
@@ -85,12 +85,12 @@
   },
   "reviews": [
     {
-      "id": "e023f1774ff17a6c",
-      "hash": "e023f1774ff17a6c561d0f693d8af680bab513129e0e3695c94fd912fd2c0e49",
+      "id": "04e84e2afd3edf6a",
+      "hash": "04e84e2afd3edf6ae0617f90cc63aa74e11e402369fd4e187963202be298f649",
       "author": "Михаил Суховей",
       "authorMeta": "1 отзыв",
       "rating": 5,
-      "relativeDate": "6 месяцев назад",
+      "relativeDate": "7 месяцев назад",
       "text": "Классный прокат! Сервис на уровне! Приятно, когда сотрудники проката с пониманием относятся к загрязнениям инструмента, при возврате, и не заставляют чистить и платить за это деньги.",
       "source": "google",
       "locationId": "asanaliyeva-25"

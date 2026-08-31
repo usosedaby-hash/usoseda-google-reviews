@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T01:43:05.418Z",
+  "generatedAt": "2026-08-31T04:54:08.936Z",
   "source": "google",
   "location": {
     "id": "skryganova-39a",
@@ -15,12 +15,12 @@
     "attemptIndex": 0,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
     "title": "Usoseda.by – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 6,
     "collectedReviewCount": 6,
-    "htmlBytes": 479680,
+    "htmlBytes": 480648,
     "textBytes": 3562,
     "textHash": "e67de9534e483149c6bb2a9a19017c385a95eac555468cd487ad04836dc16d83",
     "debugFiles": {
