@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T04:52:58.950Z",
+  "generatedAt": "2026-09-07T03:57:31.723Z",
   "source": "google",
   "location": {
     "id": "asanaliyeva-25",
@@ -15,14 +15,14 @@
     "attemptIndex": 1,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by",
-    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?hl=ru&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?hl=ru&entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
     "title": "\"У соседа\" - прокат инструмента – Google Карты",
     "consentButton": null,
-    "declaredReviewCount": 35,
-    "collectedReviewCount": 32,
-    "htmlBytes": 615459,
-    "textBytes": 18798,
-    "textHash": "694e7ff9f648504dc2ab996b7b0b1c68c783e7adf4d728af3b353a0b61016256",
+    "declaredReviewCount": 36,
+    "collectedReviewCount": 33,
+    "htmlBytes": 625607,
+    "textBytes": 23006,
+    "textHash": "ce6fb0bd4e9c6084caefea98d8861c710240c694b9b8596ceed45f68dc3561ae",
     "debugFiles": {
       "html": "debug/asanaliyeva-25-attempt-2.html",
       "text": "debug/asanaliyeva-25-attempt-2.txt",
@@ -46,9 +46,9 @@
         "url": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": 35,
-        "collectedReviewCount": 32,
-        "textBytes": 18798,
+        "declaredReviewCount": 36,
+        "collectedReviewCount": 33,
+        "textBytes": 23006,
         "debugFiles": {
           "html": "debug/asanaliyeva-25-attempt-2.html",
           "text": "debug/asanaliyeva-25-attempt-2.txt",
@@ -59,9 +59,9 @@
         "url": "https://www.google.com/maps?cid=4406573207230002729&hl=ru&gl=by",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": 35,
-        "collectedReviewCount": 32,
-        "textBytes": 18798,
+        "declaredReviewCount": 36,
+        "collectedReviewCount": 33,
+        "textBytes": 23006,
         "debugFiles": {
           "html": "debug/asanaliyeva-25-attempt-3.html",
           "text": "debug/asanaliyeva-25-attempt-3.txt",
@@ -72,9 +72,9 @@
         "url": "https://www.google.com/maps/search/?api=1&query=%22%D0%A3%20%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22%20%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%90%D1%81%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%2025%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&hl=ru&gl=by",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": 35,
-        "collectedReviewCount": 32,
-        "textBytes": 18798,
+        "declaredReviewCount": 36,
+        "collectedReviewCount": 33,
+        "textBytes": 23006,
         "debugFiles": {
           "html": "debug/asanaliyeva-25-attempt-4.html",
           "text": "debug/asanaliyeva-25-attempt-4.txt",
@@ -195,12 +195,12 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "5afcffd394d776a1",
-      "hash": "5afcffd394d776a1f04a40e6e73f5951c5cf96181ef86acee5d4a07803735413",
+      "id": "d33bd0a3ef11a52f",
+      "hash": "d33bd0a3ef11a52f6d5c3a2f356993439a721da01349d54340d38f4a2964d9e4",
       "author": "Сергей Кузьмич",
       "authorMeta": "3 отзыва",
       "rating": 5,
-      "relativeDate": "год назад",
+      "relativeDate": "2 года назад",
       "text": "Арендовал триммер Shtil. Остался довольный. Супер сервис, умеют работать с клиентами. Не получалось вернуть технику в назначенное время, позвонил попросил перенести на час. Компания пошла на встречу. Рекомендую, лучшие !",
       "source": "google",
       "locationId": "asanaliyeva-25"
@@ -250,12 +250,12 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "d6e2ac3c055bd80d",
-      "hash": "d6e2ac3c055bd80d3c0ad8feea66ef331f790f206b5980abcf083db6e889cb92",
+      "id": "bd3179690bbdf7c8",
+      "hash": "bd3179690bbdf7c8441fa48c20f88dc06f8f60577b8a60b87ee40b08bde51e0e",
       "author": "Oleg Bondar",
       "authorMeta": "3 отзыва",
       "rating": 5,
-      "relativeDate": "4 года назад",
+      "relativeDate": "5 лет назад",
       "text": "Очень большой выбор инструмента по приятным ценам. Брал сегодня сварочный аппарат и баллон, мастер показал как работает и помог донести до машины.",
       "source": "google",
       "locationId": "asanaliyeva-25"
@@ -433,6 +433,17 @@
       "rating": 5,
       "relativeDate": "год назад",
       "text": "Хорошие ребята с которыми приятно иметь дело",
+      "source": "google",
+      "locationId": "asanaliyeva-25"
+    },
+    {
+      "id": "068c5434b7995761",
+      "hash": "068c5434b7995761674083338aca9bb79272f7480ad1045290289c9744c38705",
+      "author": "Рекл Услуги",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "6 дней назад",
+      "text": "НОВЫЙ НИКОМУ НЕ РЕКОМЕНДУЮ ЭТОТ ПРОКАТ. Инструмент был возвращён В СРОК. При возврате я лично уточнил у сотрудника: всё ли в порядке по инструменту и расчётам? Мне подтвердили, что никаких вопросов нет. Деньги были оплачены полностью. После этого я узнаю, что меня внесли в «чёрный список» с пометкой «НЕ ОПЛАТИЛ» и ещё успели написать обо мне какую-то чушь. Вы там вообще понимаете, что делаете? Если ваш сотрудник принял деньги, а до кассы или вашей внутренней системы они не дошли — разбирайтесь со своим сотрудником, своей кассой и своим бардаком. Клиент не обязан отвечать за то, что происходит с деньгами внутри вашей организации после их передачи. Особенно впечатляет уровень сервиса: деньги взять — пожалуйста. Инструмент принять — пожалуйста. Сказать клиенту, что всё в порядке — пожалуйста. А потом задним числом объявить его должником — тоже пожалуйста. Если ситуация не будет исправлена, информация обо мне не будет удалена, а факт оплаты не будет нормально проверен, дальнейшего дружеского общения не будет. Будет официальная письменная претензия. Будет обращение в налоговые органы с просьбой проверить, каким образом у вас принимаются, оформляются и учитываются наличные платежи и почему деньги, переданные сотруднику, внезапно превращаются в «неоплату». При необходимости будут обращения в органы защиты прав потребителей и другие компетентные инстанции. Если выяснится, что обо мне распространяется заведомо недостоверная информация, вопрос будет решаться уже в юридической плоскости, включая требование её удаления и защиту моей репутации. Все обстоятельства, даты, факт возврата инструмента, общение при сдаче и информацию о произведённой оплате я готов фиксировать и предоставлять при официальном разбирательстве. Так что руководству советую не сочинять новые комментарии про клиентов, а поднять документы, поговорить со своими сотрудниками и выяснить, куда именно делись полученные деньги. Я свою часть обязательств выполнил: инструмент вернул вовремя, оплату произвёл. Теперь ваша очередь либо исправить ситуацию, либо объяснять её уже не мне, а проверяющим органам. Сервис, после которого можно честно рассчитаться и всё равно оказаться в «чёрном списке», заслуживает ровно одну звезду.",
       "source": "google",
       "locationId": "asanaliyeva-25"
     }
