@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:20:39.560Z",
+  "generatedAt": "2026-09-21T04:20:48.776Z",
   "source": "google",
   "location": {
     "id": "asanaliyeva-25",
@@ -15,14 +15,14 @@
     "attemptIndex": 0,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
     "title": "\"У соседа\" - прокат инструмента – Google Карты",
     "consentButton": null,
-    "declaredReviewCount": 36,
+    "declaredReviewCount": 37,
     "collectedReviewCount": 10,
-    "htmlBytes": 504532,
+    "htmlBytes": 505378,
     "textBytes": 8459,
-    "textHash": "4d84984afa131e3afe8b991e0d936ff0f7c20bef655dd35ec2827d45d48f652b",
+    "textHash": "2b6283c6b66e6869ae607e5d317f79bcd2818eda9e490bcffb4d34317a0a4151",
     "debugFiles": {
       "html": "debug/asanaliyeva-25.html",
       "text": "debug/asanaliyeva-25.txt",
@@ -33,7 +33,7 @@
         "url": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": 36,
+        "declaredReviewCount": 37,
         "collectedReviewCount": 10,
         "textBytes": 8459,
         "debugFiles": {
@@ -46,7 +46,7 @@
         "url": "https://www.google.com/maps/place/%22%D0%A3+%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22+-+%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0/@53.8407933,27.5413653,17z/data=!4m18!1m9!3m8!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!2zItCjINGB0L7RgdC10LTQsCIgLSDQv9GA0L7QutCw0YIg0LjQvdGB0YLRgNGD0LzQtdC90YLQsA!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n!3m7!1s0x46dbd12f5cb6e2fd:0x3d274afc25b2b629!8m2!3d53.8407933!4d27.5439402!9m1!1b1!16s%2Fg%2F11nnr5w_3n?entry=ttu&hl=ru&gl=by",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": 36,
+        "declaredReviewCount": 37,
         "collectedReviewCount": 10,
         "textBytes": 8436,
         "debugFiles": {
@@ -59,7 +59,7 @@
         "url": "https://www.google.com/maps?cid=4406573207230002729&hl=ru&gl=by",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": 36,
+        "declaredReviewCount": 37,
         "collectedReviewCount": 5,
         "textBytes": 5163,
         "debugFiles": {
@@ -72,7 +72,7 @@
         "url": "https://www.google.com/maps/search/?api=1&query=%22%D0%A3%20%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B0%22%20%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%90%D1%81%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%2025%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&hl=ru&gl=by",
         "ok": true,
         "title": "\"У соседа\" - прокат инструмента – Google Карты",
-        "declaredReviewCount": 36,
+        "declaredReviewCount": 37,
         "collectedReviewCount": 5,
         "textBytes": 5163,
         "debugFiles": {
@@ -96,17 +96,6 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "de58def29adbfbf1",
-      "hash": "de58def29adbfbf109cde167798abc77b76a6b9ac190167538b61cfc32eedeab",
-      "author": "Екатерина Екатерина",
-      "authorMeta": "2 отзыва",
-      "rating": 5,
-      "relativeDate": "7 месяцев назад",
-      "text": "Отличный прокат, пользуемся всей семьёй, брали бензопилу и тепловую пушку, летом брали несколько раз палатку , шатер, стол и стулья, туристическую посуду для рыбалки. Остались очень довольны, отличный чел, вовремя всё обмундирование привез , очень помог, т.к. не могли найти к этому времени ни у кого из конкурентов, всё было занято. В общем рекомендую, быстро, качественно, всё новое было",
-      "source": "google",
-      "locationId": "asanaliyeva-25"
-    },
-    {
       "id": "ee5ff350a72f45bf",
       "hash": "ee5ff350a72f45bf0d7b7717497847770b39998afaa356855e918e5e687fd998",
       "author": "Дмитрий Трубчик",
@@ -118,13 +107,13 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "cc39d9ed9679336f",
-      "hash": "cc39d9ed9679336f5b0ff5c7dda2488dfdbd78afbf116d098ff1d08d8cabfd18",
-      "author": "Артём П",
-      "authorMeta": "2 отзыва · 2 фото",
+      "id": "de58def29adbfbf1",
+      "hash": "de58def29adbfbf109cde167798abc77b76a6b9ac190167538b61cfc32eedeab",
+      "author": "Екатерина Екатерина",
+      "authorMeta": "2 отзыва",
       "rating": 5,
-      "relativeDate": "9 месяцев назад",
-      "text": "Отличное место для решения вопросов по ремонту в квартире) Всегда оригинальный, ухоженный и чистый инструмент, качественные расходники. Недавно брал коронку по бетону для подрозетников Hilberg 68мм в паре с перфоратором Makita - идеально! Вежливые ребята! Дают ответ на любой вопрос, а вопросов у меня всегда много))) Рекомендую!",
+      "relativeDate": "7 месяцев назад",
+      "text": "Отличный прокат, пользуемся всей семьёй, брали бензопилу и тепловую пушку, летом брали несколько раз палатку , шатер, стол и стулья, туристическую посуду для рыбалки. Остались очень довольны, отличный чел, вовремя всё обмундирование привез , очень помог, т.к. не могли найти к этому времени ни у кого из конкурентов, всё было занято. В общем рекомендую, быстро, качественно, всё новое было",
       "source": "google",
       "locationId": "asanaliyeva-25"
     },
@@ -136,6 +125,17 @@
       "rating": 5,
       "relativeDate": "10 месяцев назад",
       "text": "Часто пользуюсь разными службами проката. Хочу отметить что из всех прокатов, именно в этом лучшее оборудование. Брал моющий пылесос Karcher Puzzi 10/1, который справился с задачей просто великолепно. Спасибо большое за хорошее отношение и хорошее обслуживание, буду вашим постоянным клиентом!!!",
+      "source": "google",
+      "locationId": "asanaliyeva-25"
+    },
+    {
+      "id": "cc39d9ed9679336f",
+      "hash": "cc39d9ed9679336f5b0ff5c7dda2488dfdbd78afbf116d098ff1d08d8cabfd18",
+      "author": "Артём П",
+      "authorMeta": "2 отзыва · 2 фото",
+      "rating": 5,
+      "relativeDate": "9 месяцев назад",
+      "text": "Отличное место для решения вопросов по ремонту в квартире) Всегда оригинальный, ухоженный и чистый инструмент, качественные расходники. Недавно брал коронку по бетону для подрозетников Hilberg 68мм в паре с перфоратором Makita - идеально! Вежливые ребята! Дают ответ на любой вопрос, а вопросов у меня всегда много))) Рекомендую!",
       "source": "google",
       "locationId": "asanaliyeva-25"
     },
@@ -173,12 +173,12 @@
       "locationId": "asanaliyeva-25"
     },
     {
-      "id": "718c3789979958b1",
-      "hash": "718c3789979958b1d598e5cabb33fbb77588cf5f6a624a7cd4dcc8257c9d6f0b",
+      "id": "5f7742c8ed353371",
+      "hash": "5f7742c8ed353371831e952fc92f330e58b5fc63e75723a270664d68c016b6bb",
       "author": "katerina ruskevich",
       "authorMeta": "1 отзыв",
       "rating": 5,
-      "relativeDate": "10 месяцев назад",
+      "relativeDate": "11 месяцев назад",
       "text": "Брала у ребят пароочиститель, качествен инструмент, все вовремя и по высшему классу, обязательно обращусь ещё. Рекомендую всем🔥 …",
       "source": "google",
       "locationId": "asanaliyeva-25"
