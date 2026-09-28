@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:22:40.194Z",
+  "generatedAt": "2026-09-28T04:48:03.366Z",
   "source": "google",
   "location": {
     "id": "skryganova-39a",
@@ -15,14 +15,14 @@
     "attemptIndex": 0,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDkyMy4wIKXMDSoASAFQAw%3D%3D",
     "title": "Usoseda.by – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 6,
-    "collectedReviewCount": 5,
-    "htmlBytes": 480888,
-    "textBytes": 4088,
-    "textHash": "e14d07b4e9bfb3240af1cff9e11b392ec5e6d5663847f61b28a007e06003aebc",
+    "collectedReviewCount": 6,
+    "htmlBytes": 483200,
+    "textBytes": 3568,
+    "textHash": "21b2947b67854cc37b86219c25ba44801488ce2744d19967c8c69c681ca183fb",
     "debugFiles": {
       "html": "debug/skryganova-39a.html",
       "text": "debug/skryganova-39a.txt",
@@ -34,38 +34,12 @@
         "ok": true,
         "title": "Usoseda.by – Google Карты",
         "declaredReviewCount": 6,
-        "collectedReviewCount": 5,
-        "textBytes": 4088,
+        "collectedReviewCount": 6,
+        "textBytes": 3568,
         "debugFiles": {
           "html": "debug/skryganova-39a.html",
           "text": "debug/skryganova-39a.txt",
           "screenshot": "debug/skryganova-39a.png"
-        }
-      },
-      {
-        "url": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&hl=ru&gl=by",
-        "ok": true,
-        "title": "Usoseda.by – Google Карты",
-        "declaredReviewCount": 6,
-        "collectedReviewCount": 5,
-        "textBytes": 4065,
-        "debugFiles": {
-          "html": "debug/skryganova-39a-attempt-2.html",
-          "text": "debug/skryganova-39a-attempt-2.txt",
-          "screenshot": "debug/skryganova-39a-attempt-2.png"
-        }
-      },
-      {
-        "url": "https://www.google.com/maps?cid=4904916250678259092&hl=ru&gl=by",
-        "ok": true,
-        "title": "Usoseda.by – Google Карты",
-        "declaredReviewCount": 6,
-        "collectedReviewCount": 5,
-        "textBytes": 4065,
-        "debugFiles": {
-          "html": "debug/skryganova-39a-attempt-3.html",
-          "text": "debug/skryganova-39a-attempt-3.txt",
-          "screenshot": "debug/skryganova-39a-attempt-3.png"
         }
       }
     ]
@@ -83,23 +57,23 @@
       "locationId": "skryganova-39a"
     },
     {
-      "id": "5a69e5772caf0129",
-      "hash": "5a69e5772caf0129f29d2b6e76e2d91d6cd33c802537a69661f55307614cd732",
+      "id": "8530c2d76b2488bf",
+      "hash": "8530c2d76b2488bfcd8c48eb7efbd44d72df3b459318a9e1a80f197d065c9b59",
       "author": "Алеся Капура",
       "authorMeta": "4 отзыва",
       "rating": 5,
-      "relativeDate": "3 месяца назад",
+      "relativeDate": "4 месяца назад",
       "text": "Отличный сервис, огромный выбор инструментов. по выбору подскажут лучше, чем при покупке в любом магазине. Приветливые ребята и в целом-профессионалы своего дела. Спасибо! Процветания Вам!",
       "source": "google",
       "locationId": "skryganova-39a"
     },
     {
-      "id": "a3a370b99f655045",
-      "hash": "a3a370b99f655045e7746fdd411d81fb7643c3fbb7bce283961b989e2a5ad926",
+      "id": "be3ce67e53e3c0cf",
+      "hash": "be3ce67e53e3c0cffc8885bb6981c71e01510894b5aef2d460c2bfe22fa43279",
       "author": "Богдан Чижонок",
       "authorMeta": "9 отзывов · 5 фото",
       "rating": 5,
-      "relativeDate": "4 месяца назад",
+      "relativeDate": "5 месяцев назад",
       "text": "Отличный прокат инструмента в Минске! Всё быстро, удобно и по разумной цене. Инструмент выдали в хорошем состоянии, сотрудники вежливые и помогли с выбором. Остался очень доволен, при необходимости обращусь снова.",
       "source": "google",
       "locationId": "skryganova-39a"
@@ -116,13 +90,24 @@
       "locationId": "skryganova-39a"
     },
     {
-      "id": "6952cc4ab7422842",
-      "hash": "6952cc4ab7422842f03eadf7f5d8d1c08198ce07992a53efaf28403196848ecb",
+      "id": "f0810d825bff9da9",
+      "hash": "f0810d825bff9da956ffc3c53ee075acdd7f6be8498cc7a4a211a80c3d6c5bc0",
       "author": "Евгений Юдчиц",
       "authorMeta": "4 отзыва · 1 фото",
       "rating": 5,
-      "relativeDate": "4 месяца назад",
+      "relativeDate": "5 месяцев назад",
       "text": "Инструмент весь новый. Брал мойку высокого давление.",
+      "source": "google",
+      "locationId": "skryganova-39a"
+    },
+    {
+      "id": "441c4064720dfa5c",
+      "hash": "441c4064720dfa5c480bc7eb27727be8293f9d846a64b720a5542dd20aab2cff",
+      "author": "Anton Miklushov",
+      "authorMeta": "1 отзыв",
+      "rating": 5,
+      "relativeDate": "5 месяцев назад",
+      "text": "Отличный прокат, инструмент в отличном состоянии, хорошее и быстрое обслуживание!!!!",
       "source": "google",
       "locationId": "skryganova-39a"
     }
