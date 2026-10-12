@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:02:35.036Z",
+  "generatedAt": "2026-10-12T05:23:43.735Z",
   "source": "google",
   "location": {
     "id": "skryganova-39a",
@@ -15,14 +15,14 @@
     "attemptIndex": 0,
     "responseStatus": 200,
     "responseUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
-    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    "finalUrl": "https://www.google.com/maps/place/Usoseda.by/@53.9129193,27.5150361,17z/data=!4m8!3m7!1s0x46dbc5833a1f2091:0x4411c357b6b7ed94!8m2!3d53.9129193!4d27.517611!9m1!1b1!16s%2Fg%2F11n4t9ntg3?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
     "title": "Usoseda.by – Google Карты",
     "consentButton": null,
     "declaredReviewCount": 6,
     "collectedReviewCount": 6,
-    "htmlBytes": 478001,
-    "textBytes": 3568,
-    "textHash": "21b2947b67854cc37b86219c25ba44801488ce2744d19967c8c69c681ca183fb",
+    "htmlBytes": 479704,
+    "textBytes": 3570,
+    "textHash": "ad7c6b8f5d5d05711249580f3fe6425c599faadb3a756fd12b45a5cd979d8efd",
     "debugFiles": {
       "html": "debug/skryganova-39a.html",
       "text": "debug/skryganova-39a.txt",
@@ -35,7 +35,7 @@
         "title": "Usoseda.by – Google Карты",
         "declaredReviewCount": 6,
         "collectedReviewCount": 6,
-        "textBytes": 3568,
+        "textBytes": 3570,
         "debugFiles": {
           "html": "debug/skryganova-39a.html",
           "text": "debug/skryganova-39a.txt",
@@ -79,12 +79,12 @@
       "locationId": "skryganova-39a"
     },
     {
-      "id": "90f905113a746200",
-      "hash": "90f905113a746200672d50888092555cdd97bc16a9b985c0222ef567845951af",
+      "id": "43460f9644f2d835",
+      "hash": "43460f9644f2d8358050aa06f8f247b20cfb6dd76c3c0634281141d3014948f8",
       "author": "Алексей Сорока",
       "authorMeta": "2 отзыва",
       "rating": 5,
-      "relativeDate": "4 месяца назад",
+      "relativeDate": "5 месяцев назад",
       "text": "Ребята супер. Помогли организовать праздник, на все выходные. Сами привезли, сами поставили ( шатер и палаточный городок) по-любому вернемся к ним!!! P.s.- удобное место, центр города, а с парковкой проблем никаких!!!",
       "source": "google",
       "locationId": "skryganova-39a"
